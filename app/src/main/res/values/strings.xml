@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OneNote</string>
+    <string name="notes">Notes</string>
+    <string name="edit_note_heading">Edit Note.</string>
+    <string name="add_title">Add Title</string>
+    <string name="add_description">Add The Description</string>
+    <string name="add_button_description">Add Note</string>
+    <string name="save_button_description">Save Changes</string>
+    <string name="delete_button_description">Delete</string>
+    <string name="add_note_heading">Add Note</string>
+    <string name="update_button_description">Update Changes</string>
+    <string name="title_text">Title</string>
+    <string name="content_text">Content</string>
+    <string name="main_activity_theme">Base.Theme.OneNote</string>
+</resources>
